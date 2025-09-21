@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Flores Amarillas</title>
+    <link rel="stylesheet" href="css/home.css">
+</head>
+
+<body>
+    <main class="landing">
+        <div class="sunflower" aria-hidden="true">
+            <svg viewBox="0 0 200 200">
+                <defs>
+                    <path id="petalo" d="M100,30 C120,45 120,80 100,95 C80,80 80,45 100,30 Z" />
+                </defs>
+                <g class="petals">
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(0,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(22.5,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(45,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(67.5,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(90,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(112.5,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(135,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(157.5,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(180,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(202.5,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(225,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(247.5,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(270,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(292.5,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(315,100,100)" />
+                    <use href="#petalo" fill="#ffd31a" transform="rotate(337.5,100,100)" />
+                </g>
+                <circle cx="100" cy="100" r="26" fill="#6a3b00" />
+                <circle cx="100" cy="100" r="18" fill="#8b4f00" opacity=".8" />
+            </svg>
+        </div>
+
+        <form id="whoForm" class="card" autocomplete="off">
+            <h1>Flores Amarillas 🌻</h1>
+            <p>Selecciona a quién va dedicado:</p>
+            <div class="row">
+                <select id="whoInput" required>
+                    <option value="Gaby" selected>Gaby</option>
+                    <option value="Mami Patty">Mami Patty</option>
+                    <option value="Mami Barros">Mami Barros</option>
+                </select>
+                <button type="submit">Continuar</button>
+            </div>
+        </form>
+    </main>
+
+    <script defer src="js/home.js"></script>
+</body>
+
+</html>
