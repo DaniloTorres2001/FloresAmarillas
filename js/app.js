@@ -45,23 +45,23 @@
   if (msgEl) {
     const messages = {
       'Gaby': `¡Feliz Día de las Flores Amarillas, Gaby! 🌻<br><br>
-      Hermana querida, en este día tan especial quiero que sepas que tu sonrisa ilumina cada momento
-      y tu cariño hace que todo sea más hermoso.<br><br>
-      Este ramo virtual viene cargado de todo mi amor fraternal y los mejores deseos para ti.
-      Que sigas floreciendo y llenando de alegría todos los caminos que recorras.<br><br>
-      Con todo mi cariño, tu hermano que te adora 💛`,
+      En este día tan especial quiero que sepas que tu sonrisa ilumina cada momento
+      y tu cariño hace que todo sea más hermoso para todos nosotros.<br><br>
+      Este ramo viene cargado de todo mi amor, sabes que siempre te voy a estar ahí para tí.
+      Que sigas floreciendo y nos sigas llenando de alegría todos nuestros días.<br><br>
+      Con todo mi cariño, tu ñaño que te adora , Danilito 💛`,
 
-      'Mami Patty': `¡Feliz Día de las Flores Amarillas, mamá! 🌻<br><br>
-      Mami Patty, gracias por ser mi casa, mi guía y mi luz de cada día. Tu amor, tu paciencia y tu fuerza
-      han hecho florecer lo mejor de mí.<br><br>
-      Hoy te regalo este ramo virtual para recordarte cuánto te admiro y te quiero. Que la vida te siga
-      abrazando con salud, alegría y momentos llenos de paz.<br><br>
-      Con todo mi amor, tu hijo 💛`,
+      'Mami Patty': `¡Feliz Día de las Flores Amarillas, Mami Patty! 🌻<br><br>
+      Gracias por nuestro pilar, nuestra guía y nuestra luz de cada día. Tu amor, tu paciencia y tu fuerza
+      me han hecho ser quien soy.<br><br>
+      Hoy te regalo este ramo para recordarte cuánto te admiro y te amo. Que la vida te siga
+      abrazando con salud y momentos ded alegría.<br><br>
+      Con todo mi amor, tu hijo Danilito 💛`,
 
       'Mami Barros': `¡Feliz Día de las Flores Amarillas, Mami Barros! 🌻<br><br>
       Gracias por tu ternura, tus historias y ese abrazo que todo lo calma. Eres el corazón de la familia y
       la luz que siempre nos guía.<br><br>
-      Hoy te dedico este ramo para decirte cuánto te queremos. Que la vida te regale salud, paz y
+      Hoy te dedico este ramo para decirte cuánto te queremos. Que la vida te regale salud, paz y nos de
       muchos momentos llenos de sonrisas.<br><br>
       Con todo el amor de tu nieto Danilito 💛`
     };
